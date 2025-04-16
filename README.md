@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wushao666
 - 👀 I’m interested in js, java and go.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning AIGC.
 - 💞️ I’m looking to collaborate on web developer.
 - 📫 How to reach me wslsdust@163.com or 15265249516@163.com
 
